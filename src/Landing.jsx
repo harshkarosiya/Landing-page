@@ -1,5 +1,7 @@
 import React from 'react'
 import { GiPlayButton } from "react-icons/gi";
+import Landing from "/Landing.jsx";
+
 
 
 function Landing() {
